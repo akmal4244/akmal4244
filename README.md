@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohamad Nurakmal Ab Rasid
+# Mohamad Nurakmal bin Ab Rasid
 
 **IT Executive Officer**
 
