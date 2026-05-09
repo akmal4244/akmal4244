@@ -87,8 +87,8 @@ Saya seorang Pentadbir ICT dan Pembangun Sistem Web yang berpengalaman dalam mem
 
 ## Hubungi Saya
 
-- **Lokasi:** Kuala Lumpur, Malaysia
-- **Organisasi:** BPSM - Badan Pembangunan Sumber Manusia
+- **Lokasi:** Putrajaya, Malaysia
+- **Organisasi:** BPSM - Bahagian Pengurusan Sumber Manusia, Kementerian Pendidikan
 - **GitHub:** [@akmal4244](https://github.com/akmal4244)
 
 ---
