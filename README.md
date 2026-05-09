@@ -2,9 +2,7 @@
 
 # Mohamad Nurakmal Ab Rasid
 
-**ICT Administrator & Web Systems Developer**
-
-Badan Pembangunan Sumber Manusia (BPSM) | Kuala Lumpur, Malaysia
+**IT Executive Officer**
 
 [![GitHub followers](https://img.shields.io/github/followers/akmal4244?label=Follow&style=social)](https://github.com/akmal4244)
 
