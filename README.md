@@ -2,8 +2,9 @@
 
 # Mohamad Nurakmal bin Ab Rasid
 
-**IT Executive Officer**
+**Pegawai ICT · Pembangun Sistem Web · BPSM, Kementerian Pendidikan Malaysia**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-akmalmarvis.com-1A56DB?style=flat-square)](https://akmalmarvis.com)
 [![GitHub followers](https://img.shields.io/github/followers/akmal4244?label=Follow&style=social)](https://github.com/akmal4244)
 
 </div>
@@ -12,7 +13,9 @@
 
 ## Tentang Saya
 
-Saya seorang Pentadbir ICT dan Pembangun Sistem Web yang berpengalaman dalam membangunkan sistem dalaman, automasi pejabat, dan pengurusan infrastruktur IT di sektor awam Malaysia. Fokus utama saya ialah membangunkan penyelesaian digital yang memudahkan operasi organisasi menggunakan teknologi web moden dan automasi.
+Saya seorang Pentadbir ICT dan Pembangun Sistem Web yang berpengalaman dalam membangunkan sistem dalaman, automasi pejabat, dan pengurusan infrastruktur IT di sektor awam Malaysia. Fokus utama saya ialah membangunkan penyelesaian digital yang memudahkan operasi organisasi menggunakan teknologi web moden, AI, dan automasi.
+
+**Portfolio penuh:** [akmalmarvis.com](https://akmalmarvis.com)
 
 ---
 
@@ -46,20 +49,49 @@ Saya seorang Pentadbir ICT dan Pembangun Sistem Web yang berpengalaman dalam mem
 
 ### AI Tools
 
-![Perplexity](https://img.shields.io/badge/Perplexity_AI-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity_AI-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## Projek Utama
+## Sistem Utama
 
-| Projek | Teknologi | Keterangan | Status |
-|--------|-----------|------------|--------|
-| [ictbpsm](https://github.com/akmal4244/ictbpsm) | PHP, MySQL, HTML, CSS, JS | Sistem pengurusan ICT dalaman BPSM | Private |
-| [sistembpsm](https://github.com/akmal4244/sistembpsm) | Laravel, Blade, PHP | Sistem web dalaman BPSM 2025 | Private |
-| [sistem-o-ppa](https://github.com/akmal4244/sistem-o-ppa) | Laravel, Blade, JS | Sistem pengurusan PPA untuk shared hosting | Private |
-| [RestorasiFoto](https://github.com/akmal4244/RestorasiFoto) | React, TypeScript, Vite, Gemini AI | Aplikasi restorasi foto menggunakan AI | Private |
+### Sistem Kerajaan (BPSM / KPM)
+
+| Sistem | Teknologi | Keterangan |
+|--------|-----------|------------|
+| [AnalisisMe](https://github.com/akmal4244/AnalisisMe) | Laravel, Tailwind, MySQL | Sistem Analisis Data Latihan CLK untuk ICT BPSM, KPM |
+| [UjianMe](https://github.com/akmal4244/UjianMe) | Laravel, Tailwind | Sistem Penilaian dan Peperiksaan Awam |
+| [SistemOPPA](https://github.com/akmal4244/SistemOPPA) | Laravel, Blade | Sistem Penilaian Prestasi Pegawai (o-PPA) BPSM |
+| [SistemBerpusatBPSM](https://github.com/akmal4244/SistemBerpusatBPSM) | PHP | Portal sistem berpusat BPSM |
+| [SistemSTK](https://github.com/akmal4244/SistemSTK) | Laravel | Sistem Tempahan Kenderaan BPSM |
+| [SPRAD](https://github.com/akmal4244/SPRAD) | JS, Google Apps Script, Sheets | Sistem Penilaian Risiko Audit Dalam |
+| [DirektoriMe](https://github.com/akmal4244/DirektoriMe) | PHP | Sistem Direktori & Profil Pengguna |
+
+### Platform Web & SaaS
+
+| Sistem | Teknologi | Keterangan |
+|--------|-----------|------------|
+| [BelajarMe](https://github.com/akmal4244/BelajarMe) | Laravel 12, Tailwind v4 | Platform kursus AI dalam Bahasa Melayu — [belajarme.com](https://belajarme.com) |
+| [ChatMe](https://github.com/akmal4244/ChatMe) | Laravel 12 | SaaS chatbot AI berbilang penyewa dengan widget embed & API |
+| [TulisMe](https://github.com/akmal4244/TulisMe) | Laravel, Tailwind | Platform prompt AI Bahasa Melayu |
+| [PelaburanMe](https://github.com/akmal4244/PelaburanMe) | PHP | Sistem pengurusan pelaburan |
+| [ThePaduPro](https://github.com/akmal4244/ThePaduPro) | PHP | Sistem produktiviti The Padu Pro Premium |
+| [University](https://github.com/akmal4244/University) | PHP | Platform pembelajaran Marvis University |
+
+### AI & Automasi
+
+| Sistem | Teknologi | Keterangan |
+|--------|-----------|------------|
+| [TradingMe](https://github.com/akmal4244/TradingMe) | Python, Moomoo OpenD | Automasi trading dengan dashboard BM, dry-run/paper/live guard |
+| [MarvisMe](https://github.com/akmal4244/MarvisMe) | Node.js, React | Pembantu suara AI Bahasa Melayu gaya Jarvis |
+| [ThreadsMe](https://github.com/akmal4244/ThreadsMe) | Node.js | Automasi kandungan Threads untuk affiliate marketing |
+| [FacebookMe](https://github.com/akmal4244/FacebookMe) | Python, Selenium | Software automasi pemasaran Facebook |
+| [OpenMarvis](https://github.com/akmal4244/OpenMarvis) | TypeScript | Desktop AI coding assistant multi-model |
+| [RestorasiFoto](https://github.com/akmal4244/RestorasiFoto) | React, Vite, Gemini | Aplikasi restorasi foto AI |
+
+> Dan 20+ sistem lain — lihat [senarai penuh repositori](https://github.com/akmal4244?tab=repositories). Setiap sistem web dihoskan pada subdomain `akmalmarvis.com`.
 
 ---
 
@@ -78,17 +110,18 @@ Saya seorang Pentadbir ICT dan Pembangun Sistem Web yang berpengalaman dalam mem
 ## Pengalaman & Fokus Semasa
 
 - Membangunkan sistem web dalaman berasaskan **PHP & Laravel** untuk pengurusan organisasi
+- Membina platform SaaS dan automasi AI dalam **Bahasa Melayu Malaysia**
 - Mengintegrasikan **Google Apps Script** untuk automasi laporan dan data
 - Menguruskan **infrastruktur ICT** termasuk rangkaian, VPN, dan pengurusan pengguna
-- Meneroka **AI integration** menggunakan Gemini AI, Perplexity, dan Claude untuk produktiviti
 - Deployment aplikasi web ke **shared hosting (cPanel)** dan pengurusan domain
 
 ---
 
 ## Hubungi Saya
 
+- **Portfolio:** [akmalmarvis.com](https://akmalmarvis.com)
 - **Lokasi:** Putrajaya, Malaysia
-- **Organisasi:** BPSM - Bahagian Pengurusan Sumber Manusia, Kementerian Pendidikan
+- **Organisasi:** BPSM — Bahagian Pengurusan Sumber Manusia, Kementerian Pendidikan Malaysia
 - **GitHub:** [@akmal4244](https://github.com/akmal4244)
 
 ---
