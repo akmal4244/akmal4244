@@ -63,7 +63,7 @@ Saya seorang Pentadbir ICT dan Pembangun Sistem Web yang berpengalaman dalam mem
 |--------|-----------|------------|
 | [AnalisisMe](https://github.com/akmal4244/AnalisisMe) | Laravel, Tailwind, MySQL | Sistem Analisis Data Latihan CLK untuk ICT BPSM, KPM |
 | [UjianMe](https://github.com/akmal4244/UjianMe) | Laravel, Tailwind | Sistem Penilaian dan Peperiksaan Awam |
-| [SistemOPPA](https://github.com/akmal4244/SistemOPPA) | Laravel, Blade | Sistem Penilaian Prestasi Pegawai (o-PPA) BPSM |
+| [SistemOPPA](https://github.com/akmal4244/SistemOPPA) | Laravel 12, Blade | Platform peperiksaan online o-PPA BPSM (bank soalan, permohonan, analisis) |
 | [SistemBerpusatBPSM](https://github.com/akmal4244/SistemBerpusatBPSM) | PHP | Portal sistem berpusat BPSM |
 | [SistemSTK](https://github.com/akmal4244/SistemSTK) | Laravel | Sistem Tempahan Kenderaan BPSM |
 | [SPRAD](https://github.com/akmal4244/SPRAD) | JS, Google Apps Script, Sheets | Sistem Penilaian Risiko Audit Dalam |
@@ -77,7 +77,7 @@ Saya seorang Pentadbir ICT dan Pembangun Sistem Web yang berpengalaman dalam mem
 | [ChatMe](https://github.com/akmal4244/ChatMe) | Laravel 12 | SaaS chatbot AI berbilang penyewa dengan widget embed & API |
 | [TulisMe](https://github.com/akmal4244/TulisMe) | Laravel, Tailwind | Platform prompt AI Bahasa Melayu |
 | [PelaburanMe](https://github.com/akmal4244/PelaburanMe) | PHP | Sistem pengurusan pelaburan |
-| [ThePaduPro](https://github.com/akmal4244/ThePaduPro) | PHP | Sistem produktiviti The Padu Pro Premium |
+| [ThePaduPro](https://github.com/akmal4244/ThePaduPro) | PHP | Katalog produk affiliate Shopee dwibahasa dengan panel admin |
 | [University](https://github.com/akmal4244/University) | PHP | Platform pembelajaran Marvis University |
 
 ### AI & Automasi
