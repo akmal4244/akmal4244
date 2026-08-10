@@ -2,26 +2,33 @@
 
 # Mohamad Nurakmal bin Ab Rasid
 
-**Pegawai ICT · Pembangun Sistem Web · BPSM, Kementerian Pendidikan Malaysia**
+**Senior IT Officer · Web Systems Developer**
+
+**Internal Audit Unit, Ministry of Higher Education Malaysia (MOHE) · Putrajaya**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akmalmarvis.com-1A56DB?style=flat-square)](https://akmalmarvis.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-nurakmal-ab-rasid-002790131/)
 [![GitHub followers](https://img.shields.io/github/followers/akmal4244?label=Follow&style=social)](https://github.com/akmal4244)
 
 </div>
 
 ---
 
-## Tentang Saya
+## About Me
 
-Saya seorang Pentadbir ICT dan Pembangun Sistem Web yang berpengalaman dalam membangunkan sistem dalaman, automasi pejabat, dan pengurusan infrastruktur IT di sektor awam Malaysia. Fokus utama saya ialah membangunkan penyelesaian digital yang memudahkan operasi organisasi menggunakan teknologi web moden, AI, dan automasi.
+I am a Senior IT Officer at the Internal Audit Unit (UAD), Ministry of Higher Education Malaysia, based in Putrajaya. My work covers ICT auditing and audit coordination — and building the internal web systems that replace the manual, paper-heavy parts of that work.
 
-**Portfolio penuh:** [akmalmarvis.com](https://akmalmarvis.com)
+Before this I served at the Human Resource Management Division (BPSM), Ministry of Education Malaysia, where I built and maintained several of the division internal systems.
+
+Outside office hours I build SaaS products, AI tools and automation in Bahasa Melayu. Every web system I build is hosted on a subdomain of akmalmarvis.com.
+
+**Full portfolio:** [akmalmarvis.com](https://akmalmarvis.com)
 
 ---
 
-## Kemahiran Teknikal
+## Tech Stack
 
-### Bahasa Pengaturcaraan & Framework
+### Languages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,7 +37,7 @@ Saya seorang Pentadbir ICT dan Pembangun Sistem Web yang berpengalaman dalam mem
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Framework & Library
+### Frameworks & Libraries
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -38,7 +45,7 @@ Saya seorang Pentadbir ICT dan Pembangun Sistem Web yang berpengalaman dalam mem
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Sistem & Tools
+### Systems & Tools
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -55,47 +62,48 @@ Saya seorang Pentadbir ICT dan Pembangun Sistem Web yang berpengalaman dalam mem
 
 ---
 
-## Sistem Utama
+## Main Systems
 
-### Sistem Kerajaan (BPSM / KPM)
+### Government Systems
 
-| Sistem | Teknologi | Keterangan |
-|--------|-----------|------------|
-| [AnalisisMe](https://github.com/akmal4244/AnalisisMe) | Laravel, Tailwind, MySQL | Sistem Analisis Data Latihan CLK untuk ICT BPSM, KPM |
-| [UjianMe](https://github.com/akmal4244/UjianMe) | Laravel, Tailwind | Sistem Penilaian dan Peperiksaan Awam |
-| [SistemOPPA](https://github.com/akmal4244/SistemOPPA) | Laravel 12, Blade | Platform peperiksaan online o-PPA BPSM (bank soalan, permohonan, analisis) |
-| [SistemBerpusatBPSM](https://github.com/akmal4244/SistemBerpusatBPSM) | PHP | Portal sistem berpusat BPSM |
-| [SistemSTK](https://github.com/akmal4244/SistemSTK) | Laravel | Sistem Tempahan Kenderaan BPSM |
-| [SPRAD](https://github.com/akmal4244/SPRAD) | JS, Google Apps Script, Sheets | Sistem Penilaian Risiko Audit Dalam |
-| [DirektoriMe](https://github.com/akmal4244/DirektoriMe) | PHP | Sistem Direktori & Profil Pengguna |
+| System | Tech | What it does |
+|--------|------|--------------|
+| [AuditMe](https://github.com/akmal4244/AuditMe) | Laravel, Tailwind, MySQL | Internal audit management system for the Internal Audit Unit, MOHE — [auditme.akmalmarvis.com](https://auditme.akmalmarvis.com) |
+| [SPRAD](https://github.com/akmal4244/SPRAD) | JavaScript, Google Apps Script, Sheets | Internal audit risk assessment system |
+| [AnalisisMe](https://github.com/akmal4244/AnalisisMe) | Laravel, Tailwind, MySQL | CLK training data analysis system for ICT BPSM, MOE |
+| [SistemOPPA](https://github.com/akmal4244/SistemOPPA) | Laravel 12, Blade | Online o-PPA examination platform — question bank, applications, analysis |
+| [UjianMe](https://github.com/akmal4244/UjianMe) | Laravel, Tailwind | Public assessment and examination system |
+| [SistemSTK](https://github.com/akmal4244/SistemSTK) | Laravel | Vehicle booking system |
+| [SistemBerpusatBPSM](https://github.com/akmal4244/SistemBerpusatBPSM) | PHP | Centralised internal systems portal |
+| [DirektoriMe](https://github.com/akmal4244/DirektoriMe) | PHP | Staff directory and user profile system |
 
-### Platform Web & SaaS
+### Web & SaaS Platforms
 
-| Sistem | Teknologi | Keterangan |
-|--------|-----------|------------|
-| [BelajarMe](https://github.com/akmal4244/BelajarMe) | Laravel 12, Tailwind v4 | Platform kursus AI dalam Bahasa Melayu — [belajarme.com](https://belajarme.com) |
-| [ChatMe](https://github.com/akmal4244/ChatMe) | Laravel 12 | SaaS chatbot AI berbilang penyewa dengan widget embed & API |
-| [TulisMe](https://github.com/akmal4244/TulisMe) | Laravel, Tailwind | Platform prompt AI Bahasa Melayu |
-| [PelaburanMe](https://github.com/akmal4244/PelaburanMe) | PHP | Sistem pengurusan pelaburan |
-| [ThePaduPro](https://github.com/akmal4244/ThePaduPro) | PHP | Katalog produk affiliate Shopee dwibahasa dengan panel admin |
-| [University](https://github.com/akmal4244/University) | PHP | Platform pembelajaran Marvis University |
+| System | Tech | What it does |
+|--------|------|--------------|
+| [BelajarMe](https://github.com/akmal4244/BelajarMe) | Laravel 12, Tailwind v4 | AI course platform in Bahasa Melayu — [belajarme.com](https://belajarme.com) |
+| [ChatMe](https://github.com/akmal4244/ChatMe) | Laravel 12 | Multi-tenant AI chatbot SaaS with an embeddable widget and API |
+| [TulisMe](https://github.com/akmal4244/TulisMe) | Laravel, Tailwind | AI prompt library in Bahasa Melayu |
+| [ThePaduPro](https://github.com/akmal4244/ThePaduPro) | PHP | Bilingual Shopee affiliate product catalogue with an admin panel |
+| [PelaburanMe](https://github.com/akmal4244/PelaburanMe) | PHP | Investment management system |
+| [University](https://github.com/akmal4244/University) | PHP | Marvis University learning platform |
 
-### AI & Automasi
+### AI & Automation
 
-| Sistem | Teknologi | Keterangan |
-|--------|-----------|------------|
-| [TradingMe](https://github.com/akmal4244/TradingMe) | Python, Moomoo OpenD | Automasi trading dengan dashboard BM, dry-run/paper/live guard |
-| [MarvisMe](https://github.com/akmal4244/MarvisMe) | Node.js, React | Pembantu suara AI Bahasa Melayu gaya Jarvis |
-| [ThreadsMe](https://github.com/akmal4244/ThreadsMe) | Node.js | Automasi kandungan Threads untuk affiliate marketing |
-| [FacebookMe](https://github.com/akmal4244/FacebookMe) | Python, Selenium | Software automasi pemasaran Facebook |
-| [OpenMarvis](https://github.com/akmal4244/OpenMarvis) | TypeScript | Desktop AI coding assistant multi-model |
-| [RestorasiFoto](https://github.com/akmal4244/RestorasiFoto) | React, Vite, Gemini | Aplikasi restorasi foto AI |
+| System | Tech | What it does |
+|--------|------|--------------|
+| [MarvisMe](https://github.com/akmal4244/MarvisMe) | Node.js, React | Jarvis-style AI voice assistant in Bahasa Melayu |
+| [TradingMe](https://github.com/akmal4244/TradingMe) | Python, Moomoo OpenD | Trading automation with a BM dashboard and dry-run / paper / live guards |
+| [OpenMarvis](https://github.com/akmal4244/OpenMarvis) | TypeScript | Multi-model desktop AI coding assistant |
+| [ThreadsMe](https://github.com/akmal4244/ThreadsMe) | Node.js | Threads content automation for affiliate marketing |
+| [FacebookMe](https://github.com/akmal4244/FacebookMe) | Python, Selenium | Facebook marketing automation tool |
+| [RestorasiFoto](https://github.com/akmal4244/RestorasiFoto) | React, Vite, Gemini | AI photo restoration app |
 
-> Dan 20+ sistem lain — lihat [senarai penuh repositori](https://github.com/akmal4244?tab=repositories). Setiap sistem web dihoskan pada subdomain `akmalmarvis.com`.
+> And 20+ more — see the [full repository list](https://github.com/akmal4244?tab=repositories). Each web system is hosted on its own akmalmarvis.com subdomain.
 
 ---
 
-## Statistik GitHub
+## GitHub Stats
 
 <div align="center">
 
@@ -107,28 +115,30 @@ Saya seorang Pentadbir ICT dan Pembangun Sistem Web yang berpengalaman dalam mem
 
 ---
 
-## Pengalaman & Fokus Semasa
+## What I Work On
 
-- Membangunkan sistem web dalaman berasaskan **PHP & Laravel** untuk pengurusan organisasi
-- Membina platform SaaS dan automasi AI dalam **Bahasa Melayu Malaysia**
-- Mengintegrasikan **Google Apps Script** untuk automasi laporan dan data
-- Menguruskan **infrastruktur ICT** termasuk rangkaian, VPN, dan pengurusan pengguna
-- Deployment aplikasi web ke **shared hosting (cPanel)** dan pengurusan domain
+- Building internal web systems with **PHP and Laravel** for public sector operations
+- Digitising **ICT audit** work — risk assessment, reporting and coordination
+- Building **AI and SaaS** platforms in Bahasa Melayu Malaysia
+- Automating reports and data with **Google Apps Script** and Google APIs
+- Managing **ICT infrastructure** — network, VPN and user accounts
+- Deploying and maintaining apps on **cPanel shared hosting** with Git-based workflows
 
 ---
 
-## Hubungi Saya
+## Contact
 
 - **Portfolio:** [akmalmarvis.com](https://akmalmarvis.com)
-- **Lokasi:** Putrajaya, Malaysia
-- **Organisasi:** BPSM — Bahagian Pengurusan Sumber Manusia, Kementerian Pendidikan Malaysia
+- **LinkedIn:** [Mohamad Nurakmal Ab Rasid](https://www.linkedin.com/in/mohamad-nurakmal-ab-rasid-002790131/)
 - **GitHub:** [@akmal4244](https://github.com/akmal4244)
+- **Location:** Putrajaya, Malaysia
+- **Organisation:** Internal Audit Unit, Ministry of Higher Education Malaysia (MOHE)
 
 ---
 
 <div align="center">
 
-*"Teknologi adalah alat. Kreativiti dan dedikasi adalah kuasa sebenar."*
+*"Technology is just a tool. Creativity and dedication are the real power."*
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akmal4244.akmal4244)
 
