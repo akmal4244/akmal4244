@@ -114,8 +114,6 @@ Outside office hours I build SaaS products, AI tools and automation in Bahasa Me
 ![Followers](https://img.shields.io/github/followers/akmal4244?label=Followers&color=1A56DB&style=for-the-badge&logo=github)
 ![Profile views](https://komarev.com/ghpvc/?username=akmal4244&label=Profile%20Views&color=1A56DB&style=for-the-badge)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akmal4244&theme=tokyonight)
-
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akmal4244&theme=tokyonight)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akmal4244&theme=tokyonight)
 
