@@ -119,8 +119,6 @@ Outside office hours I build SaaS products, AI tools and automation in Bahasa Me
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akmal4244&theme=tokyonight)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akmal4244&theme=tokyonight)
 
-![Contribution Streak](https://streak-stats.demolab.com/?user=akmal4244&theme=tokyonight&hide_border=true)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akmal4244&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
