@@ -77,6 +77,10 @@ Outside office hours I build SaaS products, AI tools and automation in Bahasa Me
 | [AuditMe](https://github.com/akmal4244/AuditMe) | Laravel, Tailwind, MySQL | Internal audit management system for Unit Audit Dalam, KPT — [auditme.akmalmarvis.com](https://auditme.akmalmarvis.com) |
 | [AnalisisMe](https://github.com/akmal4244/AnalisisMe) | Laravel, Tailwind, MySQL | CLK training data analysis system for ICT BPSM, KPM |
 | [UjianMe](https://github.com/akmal4244/UjianMe) | Laravel, Tailwind | Online examination and assessment platform — question bank, applications and analysis |
+| [ictbpsm](https://github.com/akmal4244/ictbpsm) | PHP, MySQL | Internal ICT management system for BPSM — assets, accounts, access and licences |
+| [dashboard-bpsm](https://github.com/akmal4244/dashboard-bpsm) | PHP | Human resource dashboard for BPSM senior management |
+| [e-beratur](https://github.com/akmal4244/e-beratur) | JavaScript | Service queue management system — e-beratur.akmalmarvis.com |
+| [BeraturMe](https://github.com/akmal4244/BeraturMe) | Web | Queue and turn-scheduling system — beraturme.akmalmarvis.com |
 | [SistemSTK](https://github.com/akmal4244/SistemSTK) | Laravel | Vehicle booking system |
 | [SistemBerpusatBPSM](https://github.com/akmal4244/SistemBerpusatBPSM) | PHP | Centralised internal systems portal |
 | [DirektoriMe](https://github.com/akmal4244/DirektoriMe) | PHP | Staff directory and user profile system |
